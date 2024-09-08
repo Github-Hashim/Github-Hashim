@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Github-Hashim
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me: Whatsapp: 0308-9430707
   
