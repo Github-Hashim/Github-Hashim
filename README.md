@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me: Whatsapp: 0308-9430707
+- 📫 How to reach me: Whatsapp: +92 319 7453196
   
 <!---
 Github-Hashim/Github-Hashim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
